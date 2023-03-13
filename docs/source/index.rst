@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Chattr
+======
 
 Chattr is a language for writing complex branching dialogue and scripted
 experiences for video games. It's built for the Godot engine,
