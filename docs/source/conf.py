@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Chattr'
+copyright = '2023, Cloud 8.5'
+author = 'Cloud 8.5'
 
 release = '0.1'
 version = '0.1.0'
