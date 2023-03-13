@@ -1,13 +1,14 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Chattr is a language for writing complex branching dialogue and scripted
+experiences for video games. It's built for the Godot engine,
+and has an editor addon to make editing dialogue a cinch.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Don't know where to start? Check out the :doc:`getting_started` section
+for help with navigating the editor, as well as writing your first Chattr Script.
+
+If not, check out the contents below.
 
 .. note::
 
@@ -18,4 +19,7 @@ Contents
 
 .. toctree::
 
+   getting_started
+   editor
    character_directives
+   programming
