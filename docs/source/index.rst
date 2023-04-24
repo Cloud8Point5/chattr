@@ -23,3 +23,4 @@ Contents
    editor
    character_directives
    programming
+   choices

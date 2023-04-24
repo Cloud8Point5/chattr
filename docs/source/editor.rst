@@ -24,7 +24,9 @@ tree accordingly.
 
 At the top of the file browser is a switch labeled "Show All Folders".
 When on, this will make the file tree display all folders in the game
-directory, regardless of if they contain Chattr files.
+directory, regardless of if they contain Chattr files. This is useful 
+for adding the first Chattr script to a directory, since normally 
+directories don't show until there is already at least one script inside.
 
 At the bottom is a row of three buttons. The leftmost one adds a file/folder
 in the current directory. The middle one renames the currently selected file/folder.
